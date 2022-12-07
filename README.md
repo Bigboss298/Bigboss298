@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bigboss298
 - 👀I am frontend developer 
-- ✍️I write HTML, CSS and JavaScript 
+- ✍️I write HTML, CSS both vanilla and library(bootstrap), JavaScript both vanilla and library (react and redux) aswell 
 - 🌱 I’m learning ... ethical hacking aswell 
 - 💞️ I’m looking to collaborate on ... ethical hacking and frontend development 
 - 📫 How to reach me ...
